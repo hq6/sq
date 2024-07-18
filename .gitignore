@@ -1,0 +1,4 @@
+.built
+completions/bash-completion.sh
+completions/zsh-completion.sh
+sq
